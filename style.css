@@ -1,0 +1,148 @@
+body {
+    background-color: #25272f;
+    
+}
+
+
+.tile {
+    width: 370px;
+    height: 370px;
+    padding: 20px;
+    margin: 5px;
+    float: left;
+}
+    
+.tile-double {
+    width: 790px;
+    height: 370px;
+    padding: 20px;
+    margin: 5px;
+    float: left;
+    font-family: cursive;
+    font-size: 35px;
+    text-align: center;
+    
+          
+}
+
+.tile-double2 {
+    width: 790px;
+    height: 370px;
+    padding: 20px;
+    margin: 5px;
+    float: left;
+    
+}
+
+.aktivnost {
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+.slika {
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.nogomet {
+    text-align: center; 
+    font-family: monospace;
+    text-align: center;
+    
+
+}
+
+.pes {
+    text-align: center;
+    font-family: monospace;
+    text-align: center;
+    
+   
+}
+
+
+
+table, th, td {
+    border: 2px solid #fdb45c;
+    padding: 5px 120px;
+    resize: both;
+    
+    
+    
+}
+
+span {
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    
+           
+    
+}
+
+#main-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.green {
+    background-color: #13b2a3;
+}
+
+.yellow {
+    background-color: #fdb45c;
+}
+
+.red {
+    background-color: #f16f51;
+  
+    
+}
+
+.lightgrey {
+    background-color: #f6f6f6;
+
+    
+    
+}
+
+.vlad-slika {
+    background-image: url(http://upload.wikimedia.org/wikipedia/commons/a/af/Vlad_Tepes_002.jpg);
+    color:white;
+    font-family: cursive;
+   
+}
+
+.Fakebook {
+    background-image: url(http://www.raydworkshop.com/es-got/img/4color/fakebook.jpg);
+    background-size: 400px;
+}
+
+p {
+    font-family: cursive;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+p1 {
+    font-family: cursive;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+    
+span {
+    color:antiquewhite;
+    font-size: 35px;
+}
+    
